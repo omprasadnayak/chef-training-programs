@@ -1,3 +1,3 @@
-file '/opt/first.txt' do
+file 'first.txt' do
 	action :delete
 end
