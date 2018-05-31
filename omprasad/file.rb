@@ -1,1 +1,1 @@
-file 'first.txt'
+file '/opt/first.txt'
